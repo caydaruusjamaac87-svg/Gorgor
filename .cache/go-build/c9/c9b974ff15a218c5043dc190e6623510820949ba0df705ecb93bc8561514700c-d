@@ -1,0 +1,8 @@
+./dns_proxy.go
+./dns_proxy_base.go
+./dns_proxy_base_filters.go
+./dns_proxy_js_query.go
+./dns_proxy_js_record.go
+./dns_proxy_js_record_edns0.go
+./dns_proxy_js_record_svcb.go
+./dns_proxy_script.go

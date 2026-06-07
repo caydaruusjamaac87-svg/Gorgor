@@ -1,0 +1,13 @@
+./events_rotation.go
+./events_stream.go
+./events_triggers.go
+./events_view.go
+./events_view_ble.go
+./events_view_can.go
+./events_view_gateway.go
+./events_view_gps.go
+./events_view_hid.go
+./events_view_http.go
+./events_view_wifi.go
+./events_view_zeroconf.go
+./trigger_list.go

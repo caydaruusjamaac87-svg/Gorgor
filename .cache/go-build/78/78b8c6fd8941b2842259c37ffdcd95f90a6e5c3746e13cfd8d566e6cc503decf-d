@@ -1,0 +1,13 @@
+./build_amazon.go
+./build_logitech.go
+./build_microsoft.go
+./builders.go
+./command.go
+./duckyparser.go
+./hid.go
+./hid_inject.go
+./hid_recon.go
+./hid_show.go
+./hid_show_sort.go
+./hid_sniff.go
+./keymaps.go

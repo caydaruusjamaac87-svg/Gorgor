@@ -1,0 +1,4 @@
+./irc.go
+./irc_callback.go
+./irc_sasl.go
+./irc_struct.go

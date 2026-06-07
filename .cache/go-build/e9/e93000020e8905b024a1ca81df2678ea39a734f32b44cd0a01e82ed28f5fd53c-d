@@ -1,0 +1,17 @@
+./authentication.go
+./const.go
+./duid.go
+./iaaddr.go
+./iana.go
+./iapd.go
+./iaprefix.go
+./iata.go
+./miscoptions.go
+./options.go
+./opts.go
+./relaymessage.go
+./remoteid.go
+./statuscode.go
+./string.go
+./vendorclass.go
+./vendoropts.go

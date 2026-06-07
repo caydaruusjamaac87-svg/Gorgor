@@ -1,0 +1,11 @@
+./adapter-http.go
+./adapter-socket.go
+./adapter.go
+./attribute.go
+./constants.go
+./cups-client.go
+./error.go
+./ipp-client.go
+./request.go
+./response.go
+./utils.go

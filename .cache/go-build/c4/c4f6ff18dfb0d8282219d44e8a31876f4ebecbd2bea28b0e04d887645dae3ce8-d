@@ -1,0 +1,5 @@
+./doc.go
+./pcap.go
+_cgo_gotypes.go
+pcap_unix.cgo1.go
+_cgo_import.go

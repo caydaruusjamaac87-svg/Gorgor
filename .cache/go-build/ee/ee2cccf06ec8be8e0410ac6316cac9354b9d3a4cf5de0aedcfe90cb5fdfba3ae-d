@@ -1,0 +1,10 @@
+package plugin
+//go:cgo_import_dynamic __libc_init __libc_init#LIBC "libc.so"
+//go:cgo_import_dynamic __cxa_atexit __cxa_atexit#LIBC "libc.so"
+//go:cgo_import_dynamic __register_atfork __register_atfork#LIBC "libc.so"
+//go:cgo_import_dynamic dlsym dlsym#LIBC "libdl.so"
+//go:cgo_import_dynamic dlerror dlerror#LIBC "libdl.so"
+//go:cgo_import_dynamic dlopen dlopen#LIBC "libdl.so"
+//go:cgo_import_dynamic realpath realpath#LIBC "libc.so"
+//go:cgo_import_dynamic _ _ "libdl.so"
+//go:cgo_import_dynamic _ _ "libc.so"

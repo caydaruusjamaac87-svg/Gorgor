@@ -1,0 +1,15 @@
+./accesstype.go
+./attributevaluetype.go
+./def.go
+./doc.go
+./envvartype.go
+./error.go
+./file.go
+./identifier.go
+./independent_signals.go
+./keyword.go
+./messageid.go
+./objecttype.go
+./parser.go
+./placeholder.go
+./signalvaluetype.go

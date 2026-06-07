@@ -1,0 +1,4 @@
+./caplet.go
+./doc.go
+./env.go
+./manager.go

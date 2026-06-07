@@ -1,0 +1,5 @@
+./bexpr.go
+./coerce.go
+./evaluate.go
+./filter.go
+./options.go

@@ -1,0 +1,5 @@
+./banner.go
+./core.go
+./core_android.go
+./doc.go
+./options.go

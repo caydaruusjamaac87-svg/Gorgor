@@ -1,0 +1,14 @@
+./can.go
+./can_dbc.go
+./can_dbc_compile.go
+./can_dbc_load.go
+./can_dump_reader.go
+./can_fuzz.go
+./can_inject.go
+./can_message.go
+./can_obd2.go
+./can_obd2_message.go
+./can_obd2_pid_request.go
+./can_obd2_pid_response.go
+./can_recon.go
+./can_show.go
