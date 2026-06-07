@@ -1,8 +1,0 @@
-./banner_grabbing.go
-./dns_grabber.go
-./http_grabber.go
-./syn_scan.go
-./syn_scan_event.go
-./syn_scan_parsers.go
-./syn_scan_reader.go
-./tcp_grabber.go

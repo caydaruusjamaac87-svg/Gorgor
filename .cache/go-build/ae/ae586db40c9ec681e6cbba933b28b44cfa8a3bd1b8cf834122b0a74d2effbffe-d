@@ -1,7 +1,0 @@
-./database.go
-./message.go
-./node.go
-./sendtype.go
-./sendtype_string.go
-./signal.go
-./valuedescription.go

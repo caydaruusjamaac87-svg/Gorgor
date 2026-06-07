@@ -1,5 +1,0 @@
-./api_rest.go
-./api_rest_controller.go
-./api_rest_record.go
-./api_rest_replay.go
-./api_rest_ws.go

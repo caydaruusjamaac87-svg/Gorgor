@@ -1,7 +1,0 @@
-./delete.go
-./errors.go
-./get.go
-./parse.go
-./pointer.go
-./set.go
-./sort.go
